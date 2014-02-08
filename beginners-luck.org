@@ -1,0 +1,52 @@
+* Intro
+- Z: "Hi, my name is Denise, I'm a new Clojure developer."
+- G: "Hi, my name is Daniel, I'm a (slightly more experienced) Clojure
+  developer."
+- Z: "Six months ago I attended a Den of Clojure meetup and what I
+  saw made sense."
+  - Talk about Denise's background, a little where she came from and
+    how she got to where she was.
+- G: "Once I heard Denise's story, it was impossible not to do
+  everything I could to help. Plus one of her brothers is a Ruby dev,
+  and I wanted to make sure his big sister could teach him a thing or
+  two."
+  - Talk a little about the Den of Clojure, what we are doing and
+    what we hope to accomplish.
+
+* How we explore Clojure together
+- With a local peer to peer network setup between our laptops and one
+  projecting on the screen, do a brief review of the tmux pairing
+  setup we use.
+  - Point to the directions for this setup on the Den of Clojure
+    Github site.
+  - Talk in general about the repl sessions we shared, how it was nice
+    to interactively explore the language. From docs to tests,
+    everything was right there.
+  - Briefly talk about emacs and the benefit of using a text based
+    editor for sharing.
+- Switch roles, Denise shows me about immutable collections.
+  - TODO: look back through the repl sessions
+    - What did we start with?
+    - What did we learn?
+    - How would we do it now?
+    - Point to our online curriculum.
+      - Pull requests welcome. :)
+- Next item out of the repl sessions
+  - Have fun exploring things together
+  - Do we switch back roles or continue with Denise teaching?
+  - Review some of the easy things, review some of the hard things
+  - Z: Talk about how Clojure makes sense, how OO was confusing
+- Recap
+  - What has worked
+  - What has been challenging
+  - Benefits/drawback of emacs
+
+* Review the curriculum
+- Overview of where we are at
+  - Section 1: How to start
+  - Section 2: emacs...the final frontier
+  - Section 3: Printing, "debugging", general IO and workflow in Clojure
+  - Section 3: Immutable collections
+- Cover where we would like to go
+  - Where are the gaps?
+  - What would we like to do?
