@@ -35,7 +35,8 @@
   - Have fun exploring things together
   - Do we switch back roles or continue with Denise teaching?
   - Review some of the easy things, review some of the hard things
-  - Z: Talk about how Clojure makes sense, how OO was confusing
+  - Z: Talk about how Clojure makes sense/cleaner/more simplified, how OO leaves more room for error
+      *I feel like it puts less distance/layers/boobie-traps between me and the complier while maintaining syntactic ease 
 - Recap
   - What has worked
   - What has been challenging
